@@ -72,7 +72,7 @@ export default function Navigation() {
           <Hidden mdDown>
             <WrapMenuLink>
               <LinkMenu variant="body2">home</LinkMenu>
-              <LinkMenu variant="body2">nft's</LinkMenu>
+              <LinkMenu variant="body2">nfts</LinkMenu>
               <LinkMenu variant="body2">benefits</LinkMenu>
               <LinkMenu variant="body2">resources</LinkMenu>
               <LinkMenu variant="body2">contact</LinkMenu>
